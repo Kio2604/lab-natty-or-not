@@ -1,4 +1,4 @@
-Dados para Análise de Investimentos
+Análise Comparativa de Desempenho de Ativos: Otimizando Escolhas de Investimentos
 
 ## 📒 Descrição
 Breve descrição do seu projeto
