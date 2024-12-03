@@ -10,7 +10,7 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A análise de dados para investimentos é fundamental para decisões financeiras estratégicas. Ela abrange a coleta e interpretação de informações como tendências de mercado, desempenho de ativos e indicadores econômicos. Com ferramentas tecnológicas e métodos estatísticos, é possível identificar oportunidades, mitigar riscos e aprimorar portfólios para maximizar resultados.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
