@@ -26,6 +26,4 @@ A seguir listaremos as principais vantagens que se pode observar na utilização
 
 É importante ressaltar que apesar dos argumentos citados até aqui, as ferramentas de IA não são infalíveis, não substituem a sua análise e o seu conhecimento sobre o mercado, sendo indispensável se basear em sólidas fontes de conhecimento. Uma premissa fundamental do mercado financeiro é diversificar seus investimentos para reduzir os riscos e, ainda, ir além de uma única fonte de informação; consulte outros especialistas e materiais didáticos para complementar as informações fornecidas pelas ferramentas de IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
